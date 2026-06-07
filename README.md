@@ -4,6 +4,8 @@ Here is a comprehensive summary of your **Bangla Panjika (বাংলা পঞ
 
 ---
 
+<H2>Download Link: https://github.com/HackWithSumit/AI-Bengali-Calendar/releases/tag/AIbengaliCalendar</H2>
+
 ## 📱 Bangla Panjika (বাংলা পঞ্জিকা) — App Features
 
 ### 📅 Core Calendar & Layout
